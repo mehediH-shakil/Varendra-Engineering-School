@@ -1,7 +1,8 @@
 # Varendra-Engineering-School
 A school management system project used C programming language.
 
-#Features
+# Features
+
 Admission
 
   Add student information

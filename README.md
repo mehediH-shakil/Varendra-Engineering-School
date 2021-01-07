@@ -3,19 +3,12 @@ A school management system project used C programming language.
 
 # Features
 
-Admission
+Admission: Add student information
+  
+Student Information: View student information
 
-  Add student information
-Student Information
+Search: View and search student information
 
-  View student information
-Search
+Modify: Update student information
 
-  View and search student information
-Modify
-
-  Update student information
-Delete
-
-  remove student information
-Manage Attendance
+Delete: remove student information

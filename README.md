@@ -1,20 +1,13 @@
 # Varendra-Engineering-School
 A school management system project used C programming language.
 
-This project will help to solve this problem. By this project, it will be very easy to maintain the student of a school. The project will be helpful to both the students. Then it will be an easy task to
+# Description
+Varendra Engineering School is a school management system developed using C programming language, This project is a Consol-based application developed for educational institutes. Varendra engineering school is used to store all educational institute's records. It stores information related to only for students. The database used is the (.txt) file. The objective of developing such a system was to reduce the errors that creep in the manual system where it was very difficult to store the records.
 
-•	Admission
+With this project, it will be very easy to maintain the student information of an educational institute. This project is handled by the administrator who has all the rights to add student information, view student Information, search by student roll then view student information, update student information, and remove student information.
 
-•	Student Information
 
-•	Search
-
-•	Modify
-
-•	Delete
-
-Thus, this project will be helpful to all. The main goal of this project is to make our life more easy and comfortable.
-
+# Features
 
 Admission
 
